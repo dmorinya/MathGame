@@ -3,7 +3,7 @@ library(shinyjs)
 shinyUI(fluidPage(
   useShinyjs(),
   tags$style("#players_answer {font-size:30px;height:30px;}"),
-  titlePanel("Pokemon Maths Challenge!"),
+  titlePanel("Pokemon i Mates!"),
   fluidRow(
     HTML("
                          "),

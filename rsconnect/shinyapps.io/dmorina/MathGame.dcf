@@ -1,0 +1,13 @@
+name: MathGame
+title: MathGame
+username:
+account: dmorina
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4384927
+bundleId: 4818801
+url: https://dmorina.shinyapps.io/MathGame/
+when: 1626269956.36971
+lastSyncTime: 1626269956.36972
+asMultiple: FALSE
+asStatic: FALSE
